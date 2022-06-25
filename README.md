@@ -2,7 +2,7 @@
 ## in this project I will test my project (index.js)
 > I used mocha to do the job
 
-###todos:
+## todos:
 1. import the mocha and my index.js this will allow access methods for testing
 2. write a describe block for Rooster (is in my index.js)
 3. I have a nasted describe to .announceDawn (Rooter method)
